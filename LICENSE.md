@@ -1,4 +1,4 @@
-
+Get the ultimate Gimp for macOS filter with Gimp for macOS updated Filter - content-aware fill and color correction. Featuring content-aware fill and color correction, it's the
 
 
 
